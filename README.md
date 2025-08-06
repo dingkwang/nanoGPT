@@ -222,6 +222,15 @@ For more questions/discussions feel free to stop by **#nanoGPT** on Discord:
 
 [![](https://dcbadge.vercel.app/api/server/3zy8kqD9Cp?compact=true&style=flat)](https://discord.gg/3zy8kqD9Cp)
 
+## documentation
+
+This README provides a quick start guide. For comprehensive documentation, see:
+
+📖 **[Complete Documentation](DOCS.md)** - Overview of all documentation resources
+- **[API Reference](docs/API_REFERENCE.md)** - Detailed API documentation
+- **[Configuration Guide](docs/CONFIGURATION_GUIDE.md)** - Training configuration and scaling
+- **[Development Guide](docs/DEVELOPMENT_GUIDE.md)** - Contributing and extending the code
+
 ## acknowledgements
 
 All nanoGPT experiments are powered by GPUs on [Lambda labs](https://lambdalabs.com), my favorite Cloud GPU provider. Thank you Lambda labs for sponsoring nanoGPT!
